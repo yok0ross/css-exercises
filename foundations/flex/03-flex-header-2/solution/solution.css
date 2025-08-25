@@ -63,7 +63,7 @@ ul {
 }
 
 .left, .right {
-  display: flex;
+  flex: center;
   align-items: center;
   gap: 16px;
 }
